@@ -1,0 +1,19 @@
+#The scope of the compiler includes language design and implementation.
+#Two main approaches to implement programming languages.
+1. COMPILER
+2. INTERPRETER
+
+#Execuutable has two types:
+-bytecode
+-Assembly
+
+#structure of a compiler
+
+1. Lexical Analysis	} syntatic
+2. Parsing		} sysntatic
+3. sementic analysis	} Type, scope checking
+4. optimization		}make code run faster and/or use less memory
+5. code genration	}translation	
+
+
+1st assignment is tokenization
